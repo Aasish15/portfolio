@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: sans-serif;
+
+}
+.banner{
+    height: 250vh;
+    width: 100% ;
+    background-image: url(https://e0.pxfuel.com/wallpapers/846/344/desktop-wallpaper-portfolio.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.navbar-left{
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+.navbar-right{
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.a{
+    padding: 20px;
+    font-size: 25px;
+    color:blueviolet;
+    font-weight: bold;
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+}
+.body-left{
+    width: 40vw;
+    padding-left: 80px;
+    color: rgb(205, 92, 12);
+    font-size: 20px;
+
+}
+.photo{
+    height: 500px;
+    padding-left: 1px;
+}
+.body-right{
+    width: 60vw;
+    font-size: 30px;
+    color: burlywood;
+    font-weight: bold;
+}
+.h1{
+    color: aquamarine;
+    text-align: center;
+    font-size:60px;
+}
+.services{
+    text-align: center;
+}
+.services-sub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    border: 2px;color: blueviolet solid;
+}
+.card1{
+  color: cornflowerblue;
+  padding-right: 20px;
+}
+.card2{
+  color: darkmagenta;
+  padding-right: 20px;
+}
+.card3{
+  color: darkkhaki;
+}
+.h2{
+ color: brown;
+}
+.h3{
+ color: brown;
+}
+.h4{
+  color: brown;
+}
+.c-h1{
+    color: brown;
+    text-align: center
+
+}
+.contact-info{
+    color: rgb(79, 208, 212);
+    text-align: center;
+    font-size: 30px;
+}
+.i-icon{
+    text-align: center;
+}
+.image{
+    height: 100px;
+    padding: 20px;
+}
+.aa{
+    color: chocolate;
+    padding-left: 100px;
+}
